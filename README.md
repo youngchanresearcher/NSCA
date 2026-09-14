@@ -1,2 +1,2 @@
-# NSCA_condition_analysis
-R package for necessary-and-sufficient condition analysis
+# NSCA
+R package for NSCA (necessary-and-sufficient condition analysis)
