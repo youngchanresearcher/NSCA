@@ -3,8 +3,6 @@
 Necessary and Sufficient Condition Analysis: bivariate statements in which a
 condition is both necessary and sufficient for an outcome.
 
-Source and issue tracker:
-<https://github.com/youngchanresearcher/NSCA_condition_analysis>
 
 ## Installation
 
