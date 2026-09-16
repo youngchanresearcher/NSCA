@@ -8,8 +8,7 @@ condition is both necessary and sufficient for an outcome.
 
 NSCA delegates necessity to NCA and sufficiency to SCAtools, so install those
 first. SCAtools is a source package and must be in place before NSCA, and it
-lives in its own repository:
-<https://github.com/youngchanresearcher/SCAtools>
+lives in its own repository.
 
 ```r
 install.packages(c("NCA", "ggplot2"))
